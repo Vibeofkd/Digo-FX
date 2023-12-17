@@ -1,0 +1,126 @@
+*{
+    padding:0;
+    margin:0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.main{
+    background: url(IMG_8253.WEBP);
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    height:700px;
+}
+.navbar{
+    background-color: black;
+    height:75px;
+    width:1349px;
+    margin: auto;
+}
+.icon{
+    width:200px;
+    float:left;
+    height:70px;
+}
+.logo{
+    color:white;
+    font-family: Arial;
+    font-size:36px;
+    font-weight:bold;
+    padding-left: 40px;
+    padding-top:15px;
+    float: left;
+}
+.menu{
+    float:left;
+    width:500px;
+    height:70px;
+}
+ul{
+    float:left;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+ul li{
+    list-style: none;
+    margin-left: 250px;
+    margin-top: -70px;
+    margin-right: -160px;
+    font-size: 14px;
+}
+ul li a{
+    text-decoration: none;
+    color:#F76D07;
+    font-size: 14px;
+    font-family: arial;
+    font-weight: bold;
+    transition: 0.15s;
+    cursor:pointer;
+}
+ul li a:hover, ul li a:active {
+    opacity:0.7;
+    color:white;
+}
+.button{
+    margin-left:600px;
+    float:left;
+    margin-top: -45px;
+}
+.signup-button{
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 15px;
+    padding-right:15px;
+    border-style:none;
+    border-radius:14px;
+    background-color: #F76D07;   
+    color:black;
+    transition:0.15s;
+    cursor:pointer;
+}
+.signup-button:hover{
+    opacity:0.7;
+    color:white;
+}
+.content{
+    color:#F76D07;
+    font-size: 22px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-left: 70px;
+}
+.paragraph{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color:white;
+    font-family: Arial;
+    font-weight: bold;
+}
+.paragraph2{
+    margin-top: 10px;
+    color:white;
+    font-size:16px;
+}
+.about-button{
+    background-color: #F76D07;
+    color:black;
+    padding-top: 8px;
+    padding-bottom:8px;
+    padding-left:20px;
+    padding-right:20px;
+    border-radius: 15px;
+    border-style: none;
+    margin-top: 10px;
+    transition: 0.15s;
+    cursor:pointer;
+}
+.about-button a{
+    color:black;
+}
+.about-button:hover{
+    opacity: 0.7;
+    color:white;
+}

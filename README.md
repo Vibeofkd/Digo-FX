@@ -20,4 +20,4 @@ To democratize access to financial literacy and opportunities, enabling people w
 ## 📬 Contact
 - Website: [vercel.com/hayatu-yusuf]  
 - Email: [yusufhayatu830@gmail.com]  
-- X : [https://x.com/vibeofkd?s=21]  
+- X : [https://x.com/gvibeofkd?s=21]  
